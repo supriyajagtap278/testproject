@@ -1,0 +1,8 @@
+.app-name {
+    background-color: white;
+    color: black;
+    width: fit-content;
+    align-self: center;
+    padding: 4px 0;
+    font-weight: 400;
+}

@@ -1,0 +1,19 @@
+ .background-image {
+    background-image: url("../../assets/images/background.jpg");
+    background-color: #cccccc;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+.app-name {
+    background-color: white;
+    color: black;
+    width: fit-content;
+    align-self: center;
+    padding: 4px 0;
+    font-weight: 400;
+}
